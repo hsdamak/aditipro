@@ -20,8 +20,12 @@ public class ad
 {
 public static void main()
 {
+
 Sting sa[]={"task","three","part","two"};
 for(int i=0;i<=4;i++)
 System.out.print(sa[i]);
+String a="task3",b="part2done";
+String fi=a.concat(b);
+System.out.println(fi);
 }
 }
