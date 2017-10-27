@@ -8,3 +8,11 @@ public static void main()
 System.out.println("task 2 in process");
 }
 }
+public class ad
+{
+public static void main()
+{
+String s=task3;
+System.out.println(s);
+}
+}
