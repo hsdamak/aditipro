@@ -1,2 +1,10 @@
 Hello 
 This is Aditi Gupta submitting assignment on github.
+PROGRAMS IN JAVA
+pubic class ad
+{
+public static void main()
+{
+System.out.println("task 2 in process");
+}
+}
