@@ -16,3 +16,12 @@ String s=task3;
 System.out.println(s);
 }
 }
+public class ad
+{
+public static void main()
+{
+Sting sa[]={"task","three","part","two"};
+for(int i=0;i<=4;i++)
+System.out.print(sa[i]);
+}
+}
