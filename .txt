@@ -16,3 +16,12 @@ String s=task3;
 System.out.println(s);
 }
 }
+public class ad
+{
+public static void main()
+{
+String a="task3",b="part2done";
+String fi=a.concat(b);
+System.out.println(fi);
+}
+}
